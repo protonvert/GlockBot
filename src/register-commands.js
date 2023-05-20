@@ -15,8 +15,8 @@ const commands = [
     ]
   },
   {
-    name: 'test',
-    description: 'don\'t click me'
+    name: 'leave',
+    description: 'you really want me to leave bro??? i thought we was chillin doe 😎'
   }
 ]
 
